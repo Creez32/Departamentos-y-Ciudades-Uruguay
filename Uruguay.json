@@ -1,0 +1,812 @@
+[
+  {
+    "Id": 1,
+    "Nombre": "Artigas",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Artigas"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Bella Union"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Baltasar Brum"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Bernabe Rivera"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Colonia Palma"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Montes Quintela"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Paso Campamento"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Sequeira"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Tomas Gomensoro"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Nombre": "Canelones",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Atlantida"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Barra de Carrasco"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Canelones"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Ciudad de la Costa"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Colonia Nicolich"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "La Paz, Las piedras"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Pando"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Paso Carrasco"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Santa Lucia"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Nombre": "Cerro Largo",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Aceguá"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Fraile Muerto"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Isidoro Noblía"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Lago Merín"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Melo"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Plácido Rosas"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Río Branco"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Tupambaé"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Nombre": "Colonia",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Carmelo"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Colonia de Sacramento"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Juan Lacaze"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Nueva Helvecia"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Nueva Palmira"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Rosario"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Tarariras"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Nombre": "Durazno",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Durazno"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Sarandí del Yí"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Villa del Carmen"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Nombre": "Flores",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Andresito"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Área Rural"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Ismael Cortinas"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "La Casilla"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Trinidad"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Nombre": "Florida",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "25 de Agosto"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "25 de Mayo"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Cardal"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Casupá"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Cerro Colorado"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Florida"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Fray Marcos"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Nico Pérez"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Sarandí Grande"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Nombre": "Lavalleja",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Colón"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Illescas"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "José Batlle y Ordóñez"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "José Pedro Varela"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Mariscala"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Minas"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Pirarajá"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Solís de Mataojo"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Zapicán"
+      }
+    ]
+  },
+  {
+    "Id": 9,
+    "Nombre": "Maldonado",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Aiguá"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Cerro Pelado"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Gregorio Aznárez"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Hipódromo"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "José Ignacio"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "La Barra"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Maldonado"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Pan de Azúcar"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Pinares-Las Delicias"
+      },
+      {
+        "Id": 10,
+        "Ciudad": "Piriápolis"
+      },
+      {
+        "Id": 11,
+        "Ciudad": "Portezuelo"
+      },
+      {
+        "Id": 12,
+        "Ciudad": "Punta del Este"
+      },
+      {
+        "Id": 13,
+        "Ciudad": "San Carlos"
+      },
+      {
+        "Id": 14,
+        "Ciudad": "San Rafael-El placer"
+      }
+    ]
+  },
+  {
+    "Id": 10,
+    "Nombre": "Montevideo",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Abayubá"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Montevideo"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Montevideo Rural"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Pajas Blancas"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Santiago Vázquez"
+      }
+    ]
+  },
+  {
+    "Id": 11,
+    "Nombre": "Paysandu",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Barrio Norte"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Guichón"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Nuevo Paysandú"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Paysandú"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Porvenir"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Piedras Coloradas"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Quebracho"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Sam Félix"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Tambores"
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Nombre": "Rio Negro",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Algorta"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Bellaco"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Colonia Ofir"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "El Ombú"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Gartenal"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Grecco"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "General Borges"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Fray Bentos"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Los Arrayanes"
+      },
+      {
+        "Id": 10,
+        "Ciudad": "Las Cañas"
+      },
+      {
+        "Id": 11,
+        "Ciudad": "Menafra"
+      },
+      {
+        "Id": 12,
+        "Ciudad": "Nuevo Berlín"
+      },
+      {
+        "Id": 13,
+        "Ciudad": "Paso de los Mellizos"
+      },
+      {
+        "Id": 14,
+        "Ciudad": "San Javier"
+      },
+      {
+        "Id": 15,
+        "Ciudad": "Sarandí de Navarro"
+      },
+      {
+        "Id": 16,
+        "Ciudad": "Villa María"
+      },
+      {
+        "Id": 17,
+        "Ciudad": "Young"
+      }
+    ]
+  },
+  {
+    "Id": 13,
+    "Nombre": "Rivera",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "La Pedrera"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Masoller"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Minas de Corrales"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Rivera"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Santa Teresa"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Tranqueras"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Vichadero"
+      }
+    ]
+  },
+  {
+    "Id": 14,
+    "Nombre": "Rocha",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Chuy"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Castillos"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Lascano"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "La Paloma"
+      }
+    ]
+  },
+  {
+    "Id": 15,
+    "Nombre": "Salto",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Albisu"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Belén"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Biassini"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Colonia 18 de Julio"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Colonia Itapebí"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Constitución"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Fernández"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Garibaldi"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Pueblo Lavalleja"
+      },
+      {
+        "Id": 10,
+        "Ciudad": "Rincón de Valentín"
+      },
+      {
+        "Id": 11,
+        "Ciudad": "Salto"
+      },
+      {
+        "Id": 12,
+        "Ciudad": "San Antonio"
+      },
+      {
+        "Id": 13,
+        "Ciudad": "Saucedo"
+      },
+      {
+        "Id": 14,
+        "Ciudad": "Sarandí del Arapey"
+      },
+      {
+        "Id": 15,
+        "Ciudad": "Termas del Daymán"
+      }
+    ]
+  },
+  {
+    "Id": 16,
+    "Nombre": "San Jose",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Ciudad de Plata"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Ecilda Paullier"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Libertad"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Puntas de Valdez"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Rafael Perazza"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Rodríguez"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "San José de Mayo"
+      }
+    ]
+  },
+  {
+    "Id": 17,
+    "Nombre": "Soriano",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Cardona"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Chacras de Dolores"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Dolores"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "José Enrique Rodó"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "La Pedrera"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Mercedes"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Palmitas"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Villa Soriano"
+      }
+    ]
+  },
+  {
+    "Id": 18,
+    "Nombre": "Tacuarembo",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Achar"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Balneario Iporá"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "Cuchilla de Peralta"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Curtina"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Cuchilla del Ombú"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Clara"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Chamberlain"
+      },
+      {
+        "Id": 8,
+        "Ciudad": "Cardozo"
+      },
+      {
+        "Id": 9,
+        "Ciudad": "Las Toscas"
+      },
+      {
+        "Id": 10,
+        "Ciudad": "Laureles"
+      },
+      {
+        "Id": 11,
+        "Ciudad": "Paso de toros"
+      },
+      {
+        "Id": 12,
+        "Ciudad": "Paso Bonilla"
+      },
+      {
+        "Id": 13,
+        "Ciudad": "Paso del Cerro"
+      },
+      {
+        "Id": 14,
+        "Ciudad": "Piedra Sola"
+      },
+      {
+        "Id": 15,
+        "Ciudad": "Punta de Cinco Sauces"
+      },
+      {
+        "Id": 16,
+        "Ciudad": "Pueblo de Barro"
+      },
+      {
+        "Id": 17,
+        "Ciudad": "Rincón del Bonete"
+      },
+      {
+        "Id": 18,
+        "Ciudad": "Sauce de Batoví"
+      },
+      {
+        "Id": 19,
+        "Ciudad": "San Gregorio de Polanco"
+      },
+      {
+        "Id": 20,
+        "Ciudad": "Tacuarembó"
+      },
+      {
+        "Id": 21,
+        "Ciudad": "Tambores"
+      },
+      {
+        "Id": 22,
+        "Ciudad": "Villa Ansina"
+      }
+    ]
+  },
+  {
+    "Id": 19,
+    "Nombre": "Treinta y Tres",
+    "Localidades": [
+      {
+        "Id": 1,
+        "Ciudad": "Cerro Chato"
+      },
+      {
+        "Id": 2,
+        "Ciudad": "Ejido de Treinta y Tres"
+      },
+      {
+        "Id": 3,
+        "Ciudad": "General Enrique Martínez"
+      },
+      {
+        "Id": 4,
+        "Ciudad": "Santa Clara de Olimar"
+      },
+      {
+        "Id": 5,
+        "Ciudad": "Treinta y Tres"
+      },
+      {
+        "Id": 6,
+        "Ciudad": "Vergara"
+      },
+      {
+        "Id": 7,
+        "Ciudad": "Villa Sara"
+      }
+    ]
+  }
+]
